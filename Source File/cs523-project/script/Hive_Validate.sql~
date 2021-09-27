@@ -1,5 +1,0 @@
--- List table
-SHOW tables;
-DESCRIBE cs523;
-SELECT * FROM cs523;
-
