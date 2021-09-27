@@ -30,6 +30,7 @@ Le Hieu Le (611635)
     https://github.com/hieule247/cs523-project/blob/main/User%20Guide.docx
   
   2. Videos Present
-    <updating>
+    https://web.microsoftstream.com/video/df712d89-ee9b-4b17-b6e8-14a755f8501a?list=studio
+  
       
   
